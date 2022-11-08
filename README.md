@@ -1,1 +1,1 @@
-![Header Image](header_1.png)
+![Header Image](index.png)
