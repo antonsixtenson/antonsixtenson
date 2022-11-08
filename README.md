@@ -2,4 +2,4 @@ Hi, I'm Anton.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonsixtenson&show_icons=true&theme=radical)
+![Header Image](header.png)
