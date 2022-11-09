@@ -29,4 +29,4 @@ Likes to read.
            
 ## More
 
-Visit my personal webpage: <a href="https://www.sixtenson.com">Sixtenson.com</a>
+Visit my personal webpage: <a href="https://www.sixtenson.com" target="_blank">Sixtenson.com</a>
