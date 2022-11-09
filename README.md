@@ -4,10 +4,10 @@
 
 ## About me
 
-Currently working with calibrating and production testing medical equipment. 
-Studying computer science / programming courses.
-Find the intersection between neuroscience and computer science fascinating - recently invested in EEG equipment.
-Likes to read.
+Currently working with calibrating and production testing medical equipment.<br> 
+Studying computer science / programming courses.<br>
+Find the intersection between neuroscience and computer science fascinating - recently invested in EEG equipment.<br>
+Likes to read.<br>
 
 ## Using ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" />
