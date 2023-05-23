@@ -1,16 +1,5 @@
 ![Hi, I'm Anton Sixtenson!](index.png)
 
-
-
-## About me
-
-- Currently working with calibrating and production testing medical equipment.<br> 
-- Studying computer science / programming courses.<br>
-- Find the intersection between neuroscience and computer science fascinating - recently invested in EEG equipment.<br>
-- Trying to get more involved in Open-Source.
-- Prefers Unix based OSes.
-- Likes to read.<br>
-
 ## Using ...
 
 ### Languages (and markdown)
